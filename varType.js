@@ -1,0 +1,12 @@
+var rollNo = 18;
+console.log(typeof rollNo);
+var name = "Shafiul Islam";
+console.log(typeof name);
+var isHoliday = true;
+console.log(typeof isHoliday);
+var id = 1937820118;
+console.log(id);
+console.log(typeof(id));
+var isRain = false;
+console.log(isRain);
+console.log(typeof isRain);
