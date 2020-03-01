@@ -6,7 +6,7 @@ console.log("Now, array elements print : ");
 
 var nums = [55, 66, 77, 88, 99]; // here nums means 'numbers'
 console.log(nums);
-for(var i = 0; i < nums.length; i ++) {
+for(var i = 0; i < nums.length; i++) {
     var arrayElements = nums[i];
     console.log(arrayElements);
 }
