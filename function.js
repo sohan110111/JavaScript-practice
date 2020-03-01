@@ -12,6 +12,6 @@ function callFriends() {
     console.log("What are you doing now.");
     console.log("Come here.");
 }
-var place = "TSC";
+var place = "TSC more";
 console.log(place);
 callFriends();
